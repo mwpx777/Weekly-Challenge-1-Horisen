@@ -1,3 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -39,8 +42,18 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+	font-size: 35px;
+	padding: 0 10px;
 }
 
+.hero {
+    height: 1600px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,14 +63,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
+
 
 .float-left {
     float: left;
