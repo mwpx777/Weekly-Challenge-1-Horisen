@@ -48,7 +48,7 @@ body {
 }
 
 .hero {
-    height: 1600px;
+    height: 1700px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -67,7 +67,7 @@ p {
 
 /*left side content*/
 .search-engine-optimization {
-  	margin-bottom: 20px;
+  	margin-bottom: 30px;
     padding: 50px;
     height: 600px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -76,7 +76,7 @@ p {
 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     padding: 50px;
     height:600px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -85,7 +85,7 @@ p {
 }
 
 .social-media-marketing {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     padding: 50px;
     height: 600px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -108,21 +108,10 @@ p {
 	padding: 20px;
 }
 
-.search-engine-optimization h2 {
+ h2 {
     margin-top: 5px;
     font-size: 100px;
 }
-
-.online-reputation-management h2 {
-    margin-top: 5px;
-    font-size: 100px;
-}
-
-.social-media-marketing h2 {
-    margin-top: 5px;
-    font-size: 100px;
-}
-
 
 .float-left {
     float: left;
@@ -140,66 +129,45 @@ p {
     margin-left: 20px;
 }
 
+/*Left side content end*/
+
+/*right side content*/
 .benefits {
-    margin-right: 20px;
+    margin: 0 20px 0 20;
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 23%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Left side content end*/
 
-/*right side content*/
+
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+ h3 {
+	font-size:50px;
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-lead img {
     display: block;
-    margin: 10px auto;
-    max-width: 150px;
+    margin: 0 auto;
+    max-width: 320px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+.benefit-lead p {
+	font-size: 35px;
+	margin:0 23px;
+	line-height: 1.15;
 }
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 /*Right side content end*/
 
