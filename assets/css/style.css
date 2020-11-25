@@ -64,10 +64,6 @@ a {
 /*hero section end*/
 
 /*left side content*/
-p {
-    font-size: 40px;
-	line-height: 1.1;
-}
 
 .search-engine-optimization {
   	margin-bottom: 20px;
@@ -111,12 +107,6 @@ p {
 	padding: 20px;
 }
 
-h2 {
-    margin:0 0 65px 0;
-    font-size: 100px;
-	line-height: 1;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -131,6 +121,17 @@ h2 {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+h2 {
+    margin:0 0 65px 0;
+    font-size: 100px;
+	line-height: 1;
+}
+
+p {
+    font-size: 40px;
+	line-height: 1.1;
 }
 /*Left side content end*/
 
@@ -169,16 +170,3 @@ h2 {
 	line-height: 1.07;
 }
 /*Right side content end*/
-
-/*footer start
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-footer end*/
