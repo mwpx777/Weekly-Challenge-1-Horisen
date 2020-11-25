@@ -55,19 +55,22 @@ body {
     background-size: cover;
     background-position: center;
 }
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 25px;
-}
 /*hero section end*/
 
 /*left side content*/
+p {
+    font-size: 40px;
+	line-height: 1.1;
+}
+
 .search-engine-optimization {
-  	margin-bottom: 30px;
+  	margin-bottom: 20px;
     padding: 50px;
     height: 600px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -76,7 +79,7 @@ p {
 }
 
 .online-reputation-management {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     padding: 50px;
     height:600px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -85,8 +88,8 @@ p {
 }
 
 .social-media-marketing {
-    margin-bottom: 30px;
-    padding: 50px;
+    margin-bottom: 20px;
+    padding: 40px;
     height: 600px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -108,9 +111,10 @@ p {
 	padding: 20px;
 }
 
- h2 {
-    margin-top: 5px;
+h2 {
+    margin:0 0 65px 0;
     font-size: 100px;
+	line-height: 1;
 }
 
 .float-left {
@@ -128,22 +132,19 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
 /*Left side content end*/
 
 /*right side content*/
 .benefits {
-    margin: 0 20px 0 20;
-    padding: 20px;
+    margin: 0 20px 20px;
+    padding: 20px 20px 100px 20px;
     clear: both;
     float: right;
-    width: 23%;
+    width: 22.5%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -163,15 +164,13 @@ p {
 }
 
 .benefit-lead p {
-	font-size: 35px;
-	margin:0 23px;
-	line-height: 1.15;
+	font-size: 38px;
+	margin:0 38px;
+	line-height: 1.07;
 }
-
-
 /*Right side content end*/
 
-/*footer start*/
+/*footer start
 .footer {
     padding: 30px;
     clear: both;
@@ -182,4 +181,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-/*footer end*/
+footer end*/
