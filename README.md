@@ -26,7 +26,7 @@ Please direct any issues or problems to mwpx777@gmail.com
  Created by Mark Peterson
 
  MWP Designs
- 
+
  (https://instagram.com/mwp_designs)
  
  (https://linkedin.com/mwpdesigns)
@@ -35,7 +35,9 @@ Please direct any issues or problems to mwpx777@gmail.com
 
 ## Built With
 
-	VS Code (https://code.visualstudio.com/)
+	VS Code
+
+	(https://code.visualstudio.com/)
 
 ## Version History
 
