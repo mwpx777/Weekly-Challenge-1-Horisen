@@ -65,6 +65,12 @@ a {
 
 /*left side content*/
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .search-engine-optimization {
   	margin-bottom: 20px;
     padding: 50px;
@@ -115,12 +121,6 @@ a {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 h2 {
