@@ -6,12 +6,12 @@ Weekly Challenge #1 12.01.20
 
 
 ## Table of Contents
-	-[Description](#Description)
-	-[Help](#Help)
-	-[Authors](#Authors)
-	-[Built With](#Built-With)
-	-[Version History](#Version-History)
-	-[Acknowledgments](#Acknowledgments)
+- [Description](#description)
+- [Help](#Help)
+- [Authors](#Authors)
+- [Built With](#Built-With)
+- [Version History](#Version-History)
+- [Acknowledgments](#Acknowledgments)
 
 ## Description
 
@@ -31,7 +31,7 @@ Please direct any issues or problems to mwpx777@gmail.com
  
  (https://mwpdigitaldesign.wixsite.com/portfolio)
 
-##Built With
+## Built With
 
 	[VScode](https://code.visualstudio.com/) 
 
