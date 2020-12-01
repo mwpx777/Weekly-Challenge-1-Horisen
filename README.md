@@ -29,7 +29,7 @@ Please direct any issues or problems to mwpx777@gmail.com
 
  [MWP Designs Instagram](https://instagram.com/mwp_designs)
  
- [MWP Designs LinkedIn](https://linkedin.com/mwpdesigns)
+ [MWP Designs LinkedIn](https://www.linkedin.com/in/mwpdesigns/)
  
  [MWP Designs Portfolio](https://mwpdigitaldesign.wixsite.com/portfolio)
 
