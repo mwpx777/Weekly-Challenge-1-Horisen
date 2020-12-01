@@ -35,9 +35,10 @@ Please direct any issues or problems to mwpx777@gmail.com
 
 ## Built With
 
-	VS Code
+ VScode
 
-	(https://code.visualstudio.com/)
+ (https://code.visualstudio.com/)
+	
 
 ## Version History
 
