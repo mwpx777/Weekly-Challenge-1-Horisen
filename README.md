@@ -27,17 +27,17 @@ Please direct any issues or problems to mwpx777@gmail.com
 
  MWP Designs
 
- (https://instagram.com/mwp_designs)
+ [MWP Designs Instagram](https://instagram.com/mwp_designs)
  
- (https://linkedin.com/mwpdesigns)
+ [MWP Designs LinkedIn](https://linkedin.com/mwpdesigns)
  
- (https://mwpdigitaldesign.wixsite.com/portfolio)
+ [MWP Designs Portfolio](https://mwpdigitaldesign.wixsite.com/portfolio)
 
 ## Built With
 
  VScode
 
- (https://code.visualstudio.com/)
+ [VS Code](https://code.visualstudio.com/)
 	
 
 ## Version History
@@ -49,4 +49,4 @@ Please direct any issues or problems to mwpx777@gmail.com
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+ [awesome-readme](https://github.com/matiassingers/awesome-readme)
