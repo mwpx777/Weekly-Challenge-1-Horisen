@@ -1,6 +1,17 @@
 # Project Title
 
-Weekly Challenge #1 11.25.20
+Weekly Challenge #1 12.01.20
+
+##Code Refactor
+
+
+## Table of Contents
+	-[Description](#Description)
+	-[Help](#Help)
+	-[Authors](#Authors)
+	-[Built With](#Built-With)
+	-[Version History](#Version-History)
+	-[Acknowledgments](#Acknowledgments)
 
 ## Description
 
@@ -20,10 +31,15 @@ Please direct any issues or problems to mwpx777@gmail.com
  
  (https://mwpdigitaldesign.wixsite.com/portfolio)
 
+##Built With
+
+	[VScode](https://code.visualstudio.com/) 
+
 ## Version History
 
 * 0.1
-    * Initial Release 11.25.20
+    * Initial Release 12.01.20
+
 
 ## Acknowledgments
 
