@@ -1,12 +1,14 @@
 # Project Title
 
-Weekly Challenge #1 12.01.20
+Weekly Challenge #1 12.03.20
 
 Code Refactor
 
 
 ## Table of Contents
 - [Description](#description)
+- [Website Image](#website-image)
+- [Website Link](#website-link)
 - [Help](#Help)
 - [Authors](#Authors)
 - [Built With](#Built-With)
@@ -16,6 +18,12 @@ Code Refactor
 ## Description
 
 This is the first weekly challenge assignment.  In this challenge, we are tasked to reformat existing html and css code to match a sample image of a website.
+
+## Website Image
+<img src="assets\images\Horisen Website Image.png">
+
+## Website Link
+("https://mwpx777.github.io/Weekly-Challenge-1-Horisen/")
 
 ## Help
 
@@ -43,7 +51,7 @@ Please direct any issues or problems to mwpx777@gmail.com
 ## Version History
 
 * 0.1
-    * Initial Release 12.01.20
+    * Initial Release 12.03.20
 
 
 ## Acknowledgments
