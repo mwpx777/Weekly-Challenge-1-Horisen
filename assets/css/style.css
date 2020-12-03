@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document New */
+/* CSS Document */
 
 * {
     box-sizing: border-box;
@@ -7,9 +7,11 @@
     margin: 0;
 }
 
+/*body section start*/
 body {
     background-color: #d9dcd6;
 }
+/*body section end*/
 
 /*hero section start*/
 .header {
@@ -60,11 +62,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
 /*hero section end*/
 
 /*left side content*/
-
 .content {
     width: 76%;
     display: inline-block;
@@ -168,7 +168,6 @@ p {
 .benefit-lead p {
 	font-size: 40px;
     margin:0 60px;
-    line-height: 1;
-	
+    line-height: 1;	
 }
 /*Right side content end*/
