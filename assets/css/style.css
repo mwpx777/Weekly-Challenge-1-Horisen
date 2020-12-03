@@ -1,17 +1,16 @@
 @charset "utf-8";
-/* CSS Document */
+/* CSS Document New */
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
 /*body section start*/
 body {
     background-color: #d9dcd6;
 }
-/*body section end*/
+/*body section start*/
 
 /*hero section start*/
 .header {
@@ -138,7 +137,7 @@ p {
 /*right side content*/
 .benefits {
     margin: 0 40px 10px 10px;
-    padding: 10px 20px 140px 20px;
+    padding: 10px 20px 50px 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -166,8 +165,8 @@ p {
 }
 
 .benefit-lead p {
-	font-size: 30px;
-    margin:0 75px;
+	font-size: 40px;
+    margin:0 60px;
     line-height: 1;	
 }
 /*Right side content end*/
